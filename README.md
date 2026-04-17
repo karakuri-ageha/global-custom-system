@@ -1,4 +1,3 @@
-# Global Custom System
 ## 文書情報
 
 | 項目 | 内容 |
